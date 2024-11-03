@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CHUONGTRINH_QLCUXA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|d:\\c#\\chuongtrinh_qlcuxa\\pl\\danh_sachnv_nlam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|solutionrelative:pl\\danh_sachnv_nlam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|d:\\c#\\chuongtrinh_qlcuxa\\pl\\danh_sachnv_nlam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|solutionrelative:pl\\danh_sachnv_nlam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|d:\\c#\\chuongtrinh_qlcuxa\\pl\\danh_sachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|solutionrelative:pl\\danh_sachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|D:\\C#\\CHUONGTRINH_QLCUXA\\pl\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|solutionrelative:pl\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|D:\\C#\\CHUONGTRINH_QLCUXA\\pl\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{401C9E63-5280-4287-BD54-15113C5A00A0}|CHUONGTRINH_QLCUXA.csproj|solutionrelative:pl\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Danh_SachNV_NLam.cs",
+              "DocumentMoniker": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV_NLam.cs",
+              "RelativeDocumentMoniker": "PL\\Danh_SachNV_NLam.cs",
+              "ToolTip": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV_NLam.cs",
+              "RelativeToolTip": "PL\\Danh_SachNV_NLam.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAxwCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:20:42.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Danh_SachNV_NLam.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV_NLam.cs",
+              "RelativeDocumentMoniker": "PL\\Danh_SachNV_NLam.cs",
+              "ToolTip": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV_NLam.cs [Design]",
+              "RelativeToolTip": "PL\\Danh_SachNV_NLam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:16:42.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Danh_SachNV.cs",
+              "DocumentMoniker": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV.cs",
+              "RelativeDocumentMoniker": "PL\\Danh_SachNV.cs",
+              "ToolTip": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Danh_SachNV.cs",
+              "RelativeToolTip": "PL\\Danh_SachNV.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:52:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PL\\Dashboard.cs",
+              "ToolTip": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Dashboard.cs",
+              "RelativeToolTip": "PL\\Dashboard.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADgv2cAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:57:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PL\\Dashboard.cs",
+              "ToolTip": "D:\\C#\\CHUONGTRINH_QLCUXA\\PL\\Dashboard.cs [Design]",
+              "RelativeToolTip": "PL\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:29:05.407Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
